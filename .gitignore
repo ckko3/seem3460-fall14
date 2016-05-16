@@ -1,0 +1,16 @@
+*.DS_Store
+*.o
+*.class
+*~
+*.zip
+*.doc
+*.txt
+*.make
+magic
+magic_demo
+magic_expected
+make_magic
+make_magic_demo
+seven_s1
+single
+multi
